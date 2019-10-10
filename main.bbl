@@ -1,0 +1,139 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{Marinho2017}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=c121e096569f61f848cb461fb51acab5}{%
+           family={Marinho},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=43fe0fce799e0ecd4d62c05e526c9a3e}{%
+           family={Eccel},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a367b35c26b5d2d75a325aacb37eed83}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c1b74903570249350f37ad23a36776e3}{%
+           family={Kraus},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi K.},
+           giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ced4becc65a7a07798d6510f94288100}
+      \strng{fullhash}{1c0ac418f004a18c3bec5e8767472129}
+      \strng{bibnamehash}{ced4becc65a7a07798d6510f94288100}
+      \strng{authorbibnamehash}{ced4becc65a7a07798d6510f94288100}
+      \strng{authornamehash}{ced4becc65a7a07798d6510f94288100}
+      \strng{authorfullhash}{1c0ac418f004a18c3bec5e8767472129}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportes (Rio de Janeiro)}
+      \field{title}{Calibração do modelo de consumo de combustível do simulador AIMSUN com dados coletados via OBD}
+      \field{volume}{26}
+      \field{year}{2018}
+      \field{pages}{139\bibrangedash 154}
+      \range{pages}{16}
+    \endentry
+    \entry{Eccel2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=43fe0fce799e0ecd4d62c05e526c9a3e}{%
+           family={Eccel},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a367b35c26b5d2d75a325aacb37eed83}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Recife, PE}%
+      }
+      \strng{namehash}{d13f64544e3b96b1bae2a5abcbbd2df2}
+      \strng{fullhash}{d13f64544e3b96b1bae2a5abcbbd2df2}
+      \strng{bibnamehash}{d13f64544e3b96b1bae2a5abcbbd2df2}
+      \strng{authorbibnamehash}{d13f64544e3b96b1bae2a5abcbbd2df2}
+      \strng{authornamehash}{d13f64544e3b96b1bae2a5abcbbd2df2}
+      \strng{authorfullhash}{d13f64544e3b96b1bae2a5abcbbd2df2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Anais do XXXI Congresso ANPET}
+      \field{title}{Avaliação de estratégias de espera e realozação para problemas dinâmicos de coleta e entrega com janelas de tempo}
+      \field{year}{2017}
+    \endentry
+    \entry{Eccel2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=43fe0fce799e0ecd4d62c05e526c9a3e}{%
+           family={Eccel},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7c71b71d46e257d72a3c1105090f2b8c}{%
+           family={Taglialenha},
+           familyi={T\bibinitperiod},
+           given={S.\bibnamedelimi L.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Ouro Preto, MG}%
+      }
+      \strng{namehash}{1b670318eac4a5835caad986ef4ca063}
+      \strng{fullhash}{1b670318eac4a5835caad986ef4ca063}
+      \strng{bibnamehash}{1b670318eac4a5835caad986ef4ca063}
+      \strng{authorbibnamehash}{1b670318eac4a5835caad986ef4ca063}
+      \strng{authornamehash}{1b670318eac4a5835caad986ef4ca063}
+      \strng{authorfullhash}{1b670318eac4a5835caad986ef4ca063}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Anais do XXVIX Congresso ANPET}
+      \field{title}{Problema de caronas: um modelo matemático considerando uma nova abordagem}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
